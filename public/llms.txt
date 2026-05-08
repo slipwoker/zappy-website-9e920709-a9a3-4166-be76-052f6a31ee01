@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://aluwood-9e920709.zappy5.app
+https://example.com
 פרגולות, דקים, גדרות וחיפויי חוץ מעוצבים ברמה אדריכלית. ALUWOOD מביאה אסתטיקה מודרנית ואיכות בנייה יוצאת דופן לכל פרויקט פרטי ומסחרי. גלו את ההבדל.
 
 ### שירותים
-https://aluwood-9e920709.zappy5.app/services
+https://example.com/services
 מפרגולת עץ אלומיניום לגינה ועד עבודות אבן לחזית בית — ALUWOOD מציעה מגוון שלם של פתרונות בנייה ועיצוב חוץ עם ביצוע מושלם ואחריות מלאה. בדקו את כל השירותים.
 
 ### אודות
-https://aluwood-9e920709.zappy5.app/about
+https://example.com/about
 ALUWOOD נולדה מתוך אהבה לעיצוב אדריכלי ומחויבות לאיכות ללא פשרות. הכירו את הצוות, הפילוסופיה והחזון שהפכו אותנו לשם דבר בעיצוב חוץ יוקרתי לבתים ולפרויקטים מסחריים.
 
 ### צור קשר
-https://aluwood-9e920709.zappy5.app/contact
+https://example.com/contact
 רוצים דק עץ לחצר פרטית, גדר חיפוי חוץ מעוצבת או פרגולה מרהיבה? צרו קשר עם מומחי ALUWOOD עוד היום לייעוץ ראשוני ללא עלות וקבלו הצעת מחיר מותאמת אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://aluwood-9e920709.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://aluwood-9e920709.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://aluwood-9e920709.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://aluwood-9e920709.zappy5.app/contact
-- Endpoint: https://aluwood-9e920709.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ ALUWOOD is a premium outdoor and architectural elements company specializing in 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://aluwood-9e920709.zappy5.app/sitemap.xml
-- Robots: https://aluwood-9e920709.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://aluwood-9e920709.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
