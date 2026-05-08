@@ -1,0 +1,79 @@
+# ALUWOOD — Generative Engine Optimization Map
+
+> ALUWOOD is a premium outdoor and architectural elements company specializing in pergolas, decks, fences, cladding, and custom stonework. The brand targets a sophisticated audience including private clients, real estate professionals, architects, and interior designers, positioning itself as a high-end solution for exterior design and construction. The business combines craftsmanship with modern aesthetics, catering to both residential and commercial projects where quality and design excellence are paramount.
+
+---
+
+## Pages
+
+### בית
+https://aluwood-9e920709.zappy5.app
+פרגולות, דקים, גדרות וחיפויי חוץ מעוצבים ברמה אדריכלית. ALUWOOD מביאה אסתטיקה מודרנית ואיכות בנייה יוצאת דופן לכל פרויקט פרטי ומסחרי. גלו את ההבדל.
+
+### שירותים
+https://aluwood-9e920709.zappy5.app/services
+מפרגולת עץ אלומיניום לגינה ועד עבודות אבן לחזית בית — ALUWOOD מציעה מגוון שלם של פתרונות בנייה ועיצוב חוץ עם ביצוע מושלם ואחריות מלאה. בדקו את כל השירותים.
+
+### אודות
+https://aluwood-9e920709.zappy5.app/about
+ALUWOOD נולדה מתוך אהבה לעיצוב אדריכלי ומחויבות לאיכות ללא פשרות. הכירו את הצוות, הפילוסופיה והחזון שהפכו אותנו לשם דבר בעיצוב חוץ יוקרתי לבתים ולפרויקטים מסחריים.
+
+### צור קשר
+https://aluwood-9e920709.zappy5.app/contact
+רוצים דק עץ לחצר פרטית, גדר חיפוי חוץ מעוצבת או פרגולה מרהיבה? צרו קשר עם מומחי ALUWOOD עוד היום לייעוץ ראשוני ללא עלות וקבלו הצעת מחיר מותאמת אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://aluwood-9e920709.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aluwood-9e920709.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aluwood-9e920709.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://aluwood-9e920709.zappy5.app/contact
+- Endpoint: https://aluwood-9e920709.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ALUWOOD
+ALUWOOD is a premium outdoor and architectural elements company specializing in pergolas, decks, fences, cladding, and custom stonework. The brand targets a sophisticated audience including private clients, real estate professionals, architects, and interior designers, positioning itself as a high-end solution for exterior design and construction. The business combines craftsmanship with modern aesthetics, catering to both residential and commercial projects where quality and design excellence are paramount.
+
+## Target Audience
+- לקוחות פרטיים, לקוחות עסקיים, אנשי נדל"ן, אדריכלים, מעצבי פנים
+- אנשי מקצוע בנדל"ן
+- מעצבי פנים
+- בעלי בתים פרטיים
+
+## Industry
+בנייה ועיצוב חוץ
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://aluwood-9e920709.zappy5.app/sitemap.xml
+- Robots: https://aluwood-9e920709.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://aluwood-9e920709.zappy5.app/llms-full.txt
